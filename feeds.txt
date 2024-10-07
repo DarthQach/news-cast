@@ -9,7 +9,6 @@ https://www.hackernoon.com/feed
 https://www.technologyreview.com/feed/
 https://aws.amazon.com/blogs/machine-learning/feed/
 https://blog.google/products/ai/feed/
-https://dev.to/feed
 https://blogs.microsoft.com/ai/feed/
 https://feeds.arstechnica.com/arstechnica/index/
 https://rss.cnn.com/rss/edition_technology.rss
