@@ -1,4 +1,5 @@
 from flask import Flask, render_template, jsonify, url_for
+import os
 import feedparser
 import re
 import html
@@ -162,4 +163,5 @@ def get_articles():
     return jsonify(unique_articles)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    #app.run(debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
